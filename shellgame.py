@@ -1,4 +1,4 @@
-
+# ShellGame
 def game_rules(): # prints out rules for the game
   print('There are 3 rows of shells.\n')
   print('Row 1 starts with 1 shell. Row 2 starts with 3 shells. Row 3 starts with 5 shells.\n')
